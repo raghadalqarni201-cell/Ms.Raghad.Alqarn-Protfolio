@@ -1,6 +1,6 @@
 {
   "name": "Raghad Alqarni - Professional Portfolio",
-  "description": "Luxurious and executive portfolio website for Raghad Alqarni, a Computer Science graduate specializing in Systems Analysis, RPA, and automated Enterprise Solutions, featuring a bilingual interface and a Gemini-powered personal AI Agent.",
+  "description": "Luxurious and executive portfolio website for Raghad Alqarni, a Computer Science graduate specializing in Systems Analysis, RPA, and automated Enterprise Solutions, featuring a bilingual interface.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
